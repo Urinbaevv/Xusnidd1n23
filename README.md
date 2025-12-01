@@ -3,7 +3,7 @@
 <div align="center">
 
 
-<img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
+<img alt="Coder GIF" height=250 width=400 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=f6541&center=true&vCenter=true&width=600&lines=Hello!+I'm+Xusniddin)
 
